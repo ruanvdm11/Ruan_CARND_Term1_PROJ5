@@ -110,7 +110,7 @@ Eventually the pipeline is using four different scale sizes and a Linear SVM. He
 
 ### 4.1 Video Result
 The followiing link can be used to download the video. Also, a view link has been supplied. 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](https://github.com/ruanvdm11/Ruan_CARND_Term1_PROJ5/blob/master/p16Result.mp4)
 (https://youtu.be/tdKI_zMfT8U)
 
 [![alt text][image8]](https://www.youtube.com/watch?v=tdKI_zMfT8U)
